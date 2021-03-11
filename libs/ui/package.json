@@ -8,7 +8,7 @@
   "publishConfig": {
     "access": "public",
     "directory": "../../dist/libs/ui",
-    "tagVersionPrefix": "new-app-specific"
+    "tag": "new-app-specific"
   },
   "gitHead": "eba7e5cc58a55d23cf5721422c38950feb9906c6"
 }
