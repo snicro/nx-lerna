@@ -1,0 +1,13 @@
+{
+  "name": "@flair-test/core",
+  "version": "0.7.0",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "publishConfig": {
+    "access": "public",
+    "directory": "../../dist/libs/core"
+  },
+  "gitHead": "eba7e5cc58a55d23cf5721422c38950feb9906c6"
+}
