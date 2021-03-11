@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.19.4](https://github.com/snicro/nx-lerna/compare/@flair-test/ui@0.19.3...@flair-test/ui@0.19.4) (2021-03-11)
+
+**Note:** Version bump only for package @flair-test/ui
+
+
+
+
+
 ## [0.19.3](https://github.com/snicro/nx-lerna/compare/@flair-test/ui@0.19.2...@flair-test/ui@0.19.3) (2021-03-11)
 
 
