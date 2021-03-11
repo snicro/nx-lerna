@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.19.2](https://github.com/snicro/nx-lerna/compare/@flair-test/ui@0.19.1...@flair-test/ui@0.19.2) (2021-03-11)
+
+
+### Bug Fixes
+
+* **wohoo:** smt smt ([80f433f](https://github.com/snicro/nx-lerna/commit/80f433f1585cf357c175a79033f697e8905bb10b))
+
+
+
+
+
 ## 0.19.1 (2021-03-11)
 
 **Note:** Version bump only for package @flair-test/ui
