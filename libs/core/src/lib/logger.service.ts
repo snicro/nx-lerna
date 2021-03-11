@@ -8,7 +8,7 @@ export class LoggerService {
   constructor() { }
 
   log(message: string): void {
-    console.log(`Cores:: ${message}`);
+    console.log(`Core:: ${message}`);
   }
 
   error(message: string): void {
